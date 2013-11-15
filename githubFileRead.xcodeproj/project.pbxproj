@@ -51,6 +51,7 @@
 		041A099518369C2200622440 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		041A099718369C2200622440 /* githubFileReadTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = githubFileReadTests.m; sourceTree = "<group>"; };
 		041A09A11836A23000622440 /* objc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = objc.h; sourceTree = "<group>"; };
+		041A09A21836A3E300622440 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +121,7 @@
 				041A098018369C2200622440 /* AppDelegate.m */,
 				041A098218369C2200622440 /* MainMenu.xib */,
 				041A09A11836A23000622440 /* objc.h */,
+				041A09A21836A3E300622440 /* Header.h */,
 				041A098518369C2200622440 /* Images.xcassets */,
 				041A097418369C2200622440 /* Supporting Files */,
 			);

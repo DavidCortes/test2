@@ -21,7 +21,7 @@
  * @APPLE_LICENSE_HEADER_END@
  */
 /*
-mmmm *	objc.haaaa
+mmmm *	objc.haaaaff
  *	Copyright 1988-1996, NeXT Software, Inc.
  */
 
